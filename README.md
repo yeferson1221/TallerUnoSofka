@@ -1,4 +1,4 @@
-# TallerUnoSofka
+# TallerUnoSofka-YEFERSON ALEJANDRO VALENCIA GARZON
 Este es el taller de los modificadores de acceso
 
 Contine 6 clases  con sus atributos y metodos 
